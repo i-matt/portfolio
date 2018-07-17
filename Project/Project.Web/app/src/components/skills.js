@@ -86,20 +86,8 @@ class Skills extends React.Component{
                     {/* <!-- Row 5 of skills --> */}
                     <div className="w3-row-padding">
                         <div className="w3-col s6 m3">
-                            <i class="devicon-wordpress-plain-wordmark"></i>
-                            <p>Wordpress</p>
-                        </div>
-                        <div className="w3-col s6 m3">
-                            <i class="devicon-wordpress-plain-wordmark"></i>
-                            <p>Wordpress</p>
-                        </div>
-                        <div className="w3-col s6 m3">
-                            <i class="devicon-wordpress-plain-wordmark"></i>
-                            <p>Wordpress</p>
-                        </div>
-                        <div className="w3-col s6 m3">
-                            <i class="devicon-wordpress-plain-wordmark"></i>
-                            <p>Wordpress</p>
+                            <i class="devicon-wordpress-plain colored skills"></i>
+                            <p>WordPress</p>
                         </div>
                     </div>
                     <br/>
